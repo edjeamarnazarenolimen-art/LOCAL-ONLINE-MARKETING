@@ -27,8 +27,8 @@ let currentSignupType = null;
 // Set either value to an image URL (or a project-relative path) to use your own background.
 // Leave it empty to keep the built-in illustration.
 const marketBackgroundUrls = {
-    landscape: "https://uploads.onecompiler.io/44x5vpr2w/454rtg2kj/ff1ae716-f182-4401-b3fc-ba3cf9dda345.jfif",
-    portrait: "https://uploads.onecompiler.io/44x5vpr2w/454rtg2kj/bf508771-8337-4838-aa21-3cc7f034c5c6.jfif"
+    landscape: "https://cdn.corenexis.com/f/6h2isFwLsYL.jfif",
+    portrait: "https://cdn.corenexis.com/f/4Z4udzRswpT.jfif"
 };
 
 const marketBackgrounds = {
